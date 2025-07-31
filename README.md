@@ -77,8 +77,24 @@ This project is aimed at building an **Online Pharmacy System**, where users can
 - **Order & Cart Handling**
 
 ---
-![alt text](image.png)
+# UI View
 
+## Register Page
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Register](image.png)
+---
+## Login Page
+
+![Login](image-1.png)
+---
+## UserDashboard
+
+![User](image-2.png)
+---
+## User Table in DataBase
+
+![UserDB](image-3.png)
+---
+## Drugs Table in DataBase
+
+![DrugsDB](image-4.png)
