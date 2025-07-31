@@ -93,7 +93,7 @@ This project is aimed at building an **Online Pharmacy System**, where users can
 ---
 ## User Table in DataBase
 
-![UserDB](image-3.png)
+![UserDB]!(image-3.png)
 ---
 ## Drugs Table in DataBase
 
